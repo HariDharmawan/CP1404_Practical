@@ -12,4 +12,4 @@ for i in range(user_input):
                 numbers.append(rand_num)
                 break
     numbers.sort()
-    print("{:2d}, {:2d}, {:2d}, {:2d}, {:2d}".format(numbers[0],numbers[1],numbers[2],numbers[3],numbers[4],numbers[5]))
+    print("{:2d} {:2d} {:2d} {:2d} {:2d}".format(numbers[0],numbers[1],numbers[2],numbers[3],numbers[4],numbers[5]))
